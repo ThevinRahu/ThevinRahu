@@ -1,7 +1,7 @@
 <h1>Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Thevin Rahubedda, Software Engineering Undergraduate at SLIIT(Curtin). </p>
+<p>Welcome to my Page! </br> I'm Thevin Rahubedda, Software Engineering Undergraduate at SLIIT(Curtin). </p>
 <h3>Things I code with</h3>
 
 <!--
