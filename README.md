@@ -29,7 +29,6 @@ Here are some ideas to get you started:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-![Thevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThevinRahu&show_icons=true&theme=chartreuse-dark)
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThevinRahu&text_color=FFFFFF&bg_color=000000&title_color=7fff00&langs_count=15&layout=compact&border_color=FFFFF"/>
 </a>
 
